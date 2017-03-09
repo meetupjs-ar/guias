@@ -139,7 +139,7 @@ Otras cosas para seguir pensando:
 
 * ¿Qué desafíos se imaginan que surgen de hacer aplicaciones más grandes? (manejar un `state` más grande, tener más y más complejas operaciones asincrónicas o tener que reutilizar los componentes que generamos en más de una parte de la aplicación).
 
-## Un modelo que podés usar para organizar tus ideas mientras pensas la charla
+## 🕸 Un modelo que podés usar para organizar tus ideas mientras pensas la charla
 
 Llenar esta estructura de charla seguramente te va a ayudar a organizarte a la hora de pensar la charla (igual todo el equipo de Meetupjs va a estar encantado de ayudarte a armar la charla o darte feedback si sentís que lo necesitas así que contáctanos frente a cualquier duda!).
 
